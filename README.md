@@ -26,7 +26,7 @@ instale o node v10.15.0
 
 ```npm install```
 
-Pacotes usados no backend:
+Informações adicionais de backend:
 
 [express](https://expressjs.com/)
 
@@ -38,7 +38,7 @@ Pacotes usados no backend:
 
 ```ng serve --open```
 
-Informações adicionais
+Informações adicionais de frontend:
 
 [Angular](https://angular.io)
 
