@@ -42,4 +42,4 @@ Informações adicionais de frontend:
 
 [Angular](https://angular.io)
 
-[sass (estilo)](http://sass-lang.com/documentation/file.INDENTED_SYNTAX.html)
+[sass (estilo)](https://sass-lang.com/)
