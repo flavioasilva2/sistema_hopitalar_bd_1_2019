@@ -20,3 +20,26 @@ instale o node v10.15.0
 
 ```nvm install v10.15.0```
 
+### Backend
+
+```cd backend/```
+
+```npm install```
+
+Pacotes usados no backend:
+
+[express](https://expressjs.com/)
+
+### Frontend
+
+```npm install -g @angular/cli```
+
+```cd frontend/```
+
+```ng serve --open```
+
+Informações adicionais
+
+[Angular](https://angular.io)
+
+[sass (estilo)](http://sass-lang.com/documentation/file.INDENTED_SYNTAX.html)
