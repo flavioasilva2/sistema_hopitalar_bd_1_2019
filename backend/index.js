@@ -2,7 +2,7 @@
 
 const express = require('express');
 const app = express();
-
+// Refatorar para usar Pools no pg
 const pg = require('pg');
 const dbClient = new pg.Client({
   connectionString: "postgresql://app:app_pass@127.0.0.1:5432/app"
